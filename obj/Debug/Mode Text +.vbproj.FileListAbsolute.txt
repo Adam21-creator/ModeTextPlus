@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Mode Text +\bin\Debug\Mode Text +.exe.config
+C:\Users\LENOVO\source\repos\Mode Text +\bin\Debug\Mode Text +.exe
+C:\Users\LENOVO\source\repos\Mode Text +\bin\Debug\Mode Text +.pdb
+C:\Users\LENOVO\source\repos\Mode Text +\bin\Debug\Mode Text +.xml
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode Text +.vbprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode_Text__.Form1.resources
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode_Text__.Form2.resources
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode_Text__.Resources.resources
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode Text +.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode Text +.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode Text +.exe
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode Text +.xml
+C:\Users\LENOVO\source\repos\Mode Text +\obj\Debug\Mode Text +.pdb

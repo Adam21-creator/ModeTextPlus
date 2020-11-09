@@ -1,0 +1,8 @@
+Este es un editor de código abierto (Visual Basic) con algunas funciones avanzadas 
+y futuro de agregar aún más, puedes crear, abrir y editar documentos de texto 
+como: su fuente, tamaño y color de texto.
+
+Es ilegal y está prohibido en lo absoluto la venta de este producto o publicarlo 
+en Internet de forma gratuita o de paga.
+
+Que lo disfrutes =D...
